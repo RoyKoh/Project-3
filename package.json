@@ -39,5 +39,25 @@
   },
   "engines": {
     "node": ">=0.10.0"
-  }
+  },
+  "name": "project_3",
+  "description": "![](https://cloud.githubusercontent.com/assets/110953/7877439/6a69d03e-0590-11e5-9fac-c614246606de.png) ## Polymer Starter Kit",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "node.js": "^0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolymerElements/polymer-starter-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolymerElements/polymer-starter-kit/issues"
+  },
+  "homepage": "https://github.com/PolymerElements/polymer-starter-kit#readme"
 }
