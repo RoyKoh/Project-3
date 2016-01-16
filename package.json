@@ -48,8 +48,7 @@
     "doc": "docs"
   },
   "dependencies": {
-    "express": "^4.13.3",
-    "node.js": "^5.3.0"
+    "express": "^4.13.3"
   },
   "repository": {
     "type": "git",
